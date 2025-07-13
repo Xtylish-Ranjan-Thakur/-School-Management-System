@@ -1,4 +1,6 @@
 # -School-Management-System
+
+
 School Management System
 A fully responsive front-end web application created using HTML, CSS, and JavaScript to simulate the UI of a school management system. It includes functionalities like login, dashboard, student and teacher management, class schedules, attendance tracking, and a notice board.
 
