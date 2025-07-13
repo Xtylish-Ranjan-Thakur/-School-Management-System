@@ -1,5 +1,14 @@
 # -School-Management-System
 
+<img width="1368" height="768" alt="Screenshot from 2025-07-13 20-08-11" src="https://github.com/user-attachments/assets/c91a502d-9a93-4945-a9c3-83e359edfd5d" />
+<img width="1368" height="768" alt="Screenshot from 2025-07-13 20-09-18" src="https://github.com/user-attachments/assets/087b84cc-3b3e-40fb-8ed6-6a6b8f211ef3" />
+<img width="1368" height="768" alt="Screenshot from 2025-07-13 20-11-41" src="https://github.com/user-attachments/assets/4a0bf269-7333-4d68-a100-9824f964a49f" />
+<img width="1368" height="768" alt="Screenshot from 2025-07-13 20-11-41" src="https://github.com/user-attachments/assets/ca87a172-722e-4263-93a1-ae3c0b39e583" />
+
+<img width="1368" height="768" alt="Screenshot from 2025-07-13 20-12-29" src="https://github.com/user-attachments/assets/fd628699-37cf-4d8f-8e9e-0167ff1ca557" />
+<img width="1368" height="768" alt="Screenshot from 2025-07-13 20-12-20" src="https://github.com/user-attachments/assets/8c24b07f-0a89-4ce6-8665-4e7aaf8d83be" />
+
+
 
 School Management System
 A fully responsive front-end web application created using HTML, CSS, and JavaScript to simulate the UI of a school management system. It includes functionalities like login, dashboard, student and teacher management, class schedules, attendance tracking, and a notice board.
