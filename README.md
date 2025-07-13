@@ -51,3 +51,9 @@ school-management-system/
 
 Clone the repository:
 git clone https://github.com/yourusername/school-management-system.git
+
+Open the folder in VS Code
+
+Install Live Server extension
+
+Right-click on index.html > Open with Live Server
